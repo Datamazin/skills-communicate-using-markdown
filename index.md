@@ -13,3 +13,8 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+### Example task list
+
+-[x] Leaning Git Hub
+-[x] Learn Pull Request
+-[ ] Not completed task
